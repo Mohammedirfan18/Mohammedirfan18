@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mohammedirfan18
-- 👀 I’m interested in Software Engineering
-- 🌱  Dsa using Java
-- 💞️ I’m looking to collaborate on java
+- 👋 Hi, I’m Mohammed Irfan
+- 👀 I’m a Software Engineering
+- 🌱 portfolio: 
+- 💞️ I’m looking to collaborate on java,javaScript,React
 - 📫 How to reach me www.linkedin.com/in/irfancodes
 
 <!---
