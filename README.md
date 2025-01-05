@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Irfan
-- 👀 I’m a Software Engineering
-- 🌱 portfolio: 
+- 👀 I’m a Software Engineer
+- 🌱 portfolio: https://mohammedirfan.in/
 - 💞️ I’m looking to collaborate on java,javaScript,React
 - 📫 How to reach me www.linkedin.com/in/irfancodes
 
